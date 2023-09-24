@@ -26,7 +26,7 @@ export default function EditContact() {
           placeholder="Last"
           aria-label="Last name"
           type="text"
-          name="first"
+          name="last"
           defaultValue={contact.last}
         />
       </p>
